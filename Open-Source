@@ -13,7 +13,7 @@ local Window = Luna:CreateWindow({
         RootFolder = nil,
         ConfigFolder = "TrollHub"
     },
-    KeySystem = true,
+    KeySystem = false,
     KeySettings = {
         Title = "TrollHub Key",
         Subtitle = "Key System",
